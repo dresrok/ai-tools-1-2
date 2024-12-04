@@ -1,0 +1,8 @@
+{
+  "name": "Casos 1 y 2",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
