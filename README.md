@@ -1,4 +1,4 @@
-# Code Review
+# Revisión de Código
 
 ## Caso 1:
 
