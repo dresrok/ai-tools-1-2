@@ -1,3 +1,5 @@
+# Code Review
+
 ## Caso 1:
 
 Eva está trabajando en el proyecto XYZ como desarrolladora senior. Su colega Philip acaba de terminar el módulo productor/consumidor, la característica principal responsable de gestionar pedidos a gran escala. Philip decidió implementar esta característica utilizando algunos patrones de diseño.
@@ -8,18 +10,18 @@ Mientras realiza la revisión, también se da cuenta de que, de vez en cuando, l
 
 ¿Cómo debería responder Eva a esta solicitud de revisión?
 
-Agregue su solución en el formato:
+**Agregue su solución en el formato:**
 
-Comentarios:
+_Comentarios:_
 
-Recomendaciones:
+_Recomendaciones:_
 
 ### Puedes resolver este ejercicio usando las siguientes herramientas:
 
-https://claude.ai/
-https://chatgpt.com/
+- https://claude.ai
+- https://chatgpt.com
 
-### Una vez resuelvas copia tu respuesta y valídala mediante el siguiente enlace:
+### Una vez lo resuelvas, copia tu respuesta y valídala mediante el siguiente enlace:
 
 https://chatgpt.com/g/g-674e6bc98e4c8191a5ab41336947419c-code-reviewer-caso-1
 
@@ -33,17 +35,17 @@ Después de 30 minutos de investigar la solicitud de extracción de Alex, Michae
 
 ¿Qué debería hacer Michael y cómo debería comentar esta revisión?
 
-Agregue su solución en el formato:
+**Agregue su solución en el formato:**
 
-Comentarios:
+_Comentarios:_
 
-Recomendaciones:
+_Recomendaciones:_
 
 ### Puedes resolver este ejercicio usando las siguientes herramientas:
 
-https://claude.ai/
-https://chatgpt.com/
+- https://claude.ai
+- https://chatgpt.com
 
-### Una vez resuelvas copia tu respuesta y valídala mediante el siguiente enlace:
+### Una vez lo resuelvas, copia tu respuesta y valídala mediante el siguiente enlace:
 
 https://chatgpt.com/g/g-674e76d3ce30819198ac4243a3369283-code-reviewer-caso-2
